@@ -16,4 +16,5 @@ en el momento manejo las siguientes tecnologias:
 - MongoDB, Sql
 
 No dudes en contactarme Choconta2001@gmail.com, tambien te dejo mi likedin:
-https://www.linkedin.com/in/faiver-andr%C3%A9s-chocont%C3%A1-bol%C3%ADvar-1923b51a6/
+
+![image](https://user-images.githubusercontent.com/118790774/207221136-1ae7b444-561d-4bf7-8f93-5dcda72a5233.png) ![image](https://user-images.githubusercontent.com/118790774/207221448-ce9d0fb4-0350-4eb8-a1ad-26b77987e945.png)
