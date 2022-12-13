@@ -1,16 +1,19 @@
-### Hi there 👋
+Hola! 
 
-<!--
-**AndresChoconta/AndresChoconta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Andrés Chocontá, soy de Colombia!
 
-Here are some ideas to get you started:
+Soy una persona apasionada por la tecnologia y el apredizaje continuo, por ello,
+cada dia es una oportunidad para aprender cosas nuevas entorno a la programación,
+en el momento manejo las siguientes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Html y Css
+- JavaScript
+- GitHub
+- Excel avanzado
+- Java - POO
+- Ruby on Rails
+- MongoDB, Sql
+
+No dudes en contactarme Choconta2001@gmail.com, tambien te dejo mi likedin:
+https://www.linkedin.com/in/faiver-andr%C3%A9s-chocont%C3%A1-bol%C3%ADvar-1923b51a6/
